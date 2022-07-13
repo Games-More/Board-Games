@@ -9,7 +9,7 @@ import { HeadComponent } from './head/head.component';
   declarations: [		
     AppComponent,
       MenuComponent,
-      FooterComponent
+      FooterComponent,
       HeadComponent
    ],
   imports: [
